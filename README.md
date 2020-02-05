@@ -3,6 +3,8 @@ Este repositorio cuenta con todos los niveles correspondientes a propuesta de ta
 
 La secuencia de pasos para realizar la importación de un nivel se enlista a continuación:
 
+![Proceso de importación](https://github.com/Rigosencrantz/Taller-Spacechem/blob/master/Importacion%20SC%202.png)
+
 1. Copiar la cadena de texto correspondiente a uno de los niveles de juego al portapapeles.
 
 2.	En la pantalla principal del juego, hacer clic en el botón de **Research Net Sign On**.
